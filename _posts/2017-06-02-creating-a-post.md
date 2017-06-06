@@ -1,6 +1,6 @@
 ---
 title: Creating a Post
-date: 2017-02-04 19:00:00 -05:00
+date: 2017-06-02 19:00:00 -05:00
 layout: post
 ---
 
