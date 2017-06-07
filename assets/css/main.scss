@@ -90,7 +90,7 @@ blockquote {
 	align-items: baseline;
 	padding-bottom: 50px;
 	@media screen and (max-width: $br) {
-		display: block flex;
+		display: block;
 	}
 	h1 {
 		font-size: 1.5em;
