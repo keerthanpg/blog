@@ -5,20 +5,18 @@ layout: about
 
 # Hello! 
 
-
-My name is Eric & I am an Engineer with an aptitude & affinity for bench science, lab design & software.
+I am Keerthana, a graduate student of robotics at Carnegie Mellon who's trying to document bits of her life by moulding words. I write, therefore I am. 
 
                     
-I spend my time being a husband to [@jkmogan](https://www.instagram.com/jkmogan), father, runner, climber, skier, scientist & [writing code](https://github.com/erictreacy). 
+On regular days, I spend 60+ hours a week working towards my degree, mostly converting coffee and sleeplessness to code. I am a start-up enthusiast who likes to follow up on politics and policy in India, read non-fiction and have recently taken to writing. Wielding the pen makes me feel powerful. 
 
-
-When I actually think to do it, I also enjoy taking [photos](https://erictreacy.me/photos).
+Random everyday clicks are posted by my alter-ego at [@jomarch121](https://www.instagram.com/jomarch121/).
+Find my book reviews and reading goals at [goodreads](https://www.goodreads.com/review/list/18625694-keerthana-gopalakrishnan)
+I write on [Quora](https://www.quora.com/profile/P-G-Keerthana-Gopalakrishnan) and [Medium](https://medium.com/@keerthanagopalakrishnan), as well as here!
 
                 
-I seldom [tweet](https://twitter.com/erictreacy), but it's the perfect way to get a hold of me.
+[Twitter](https://twitter.com/erictreacy) | [Facebook](https://www.facebook.com/keertygw) | [LinkedIn](https://www.linkedin.com/in/keerthanapg/) | [Gmail](keerthanpg@gmail.com)
+Email and Facebook are the easiest ways to get hold of me. :)
 
+Take care! 
 
-# About this site: 
-
-
-This is a custom Jekyll (Ruby) site proudly hosted on GitHub. 
