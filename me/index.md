@@ -16,6 +16,8 @@ I write on [Quora](https://www.quora.com/profile/P-G-Keerthana-Gopalakrishnan) a
 
                 
 [Twitter](https://twitter.com/erictreacy) | [Facebook](https://www.facebook.com/keertygw) | [LinkedIn](https://www.linkedin.com/in/keerthanapg/) | [Gmail](keerthanpg@gmail.com)
+
+                    
 Email and Facebook are the easiest ways to get hold of me. :)
 
 Take care! 
